@@ -1,3 +1,6 @@
 # HarmonicOscillator
-Juliaで、微分方程式を陽的Euler法・陰的Euler法・台形公式・Runge-Kutta法で計算してみた。
+
+Juliaで、陽的Euler法・陰的Euler法・台形公式・4次Runge-Kutta法を実装してみた。
+調和振動子の微分方程式
+
 <img src="./equ.gif" />
